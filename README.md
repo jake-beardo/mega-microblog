@@ -7,3 +7,4 @@ Install all dependancies... I should really create a .yml file
 
 $ flask run
 
+This was built using flask mega tutorial 
